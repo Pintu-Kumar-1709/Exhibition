@@ -3,10 +3,10 @@
 <!-- Logo & Title -->
 <img src="public/lolo.jpg" alt="KumarrR Portfolio Logo" width="140" height="140" style="border-radius: 20px" />
 
-# 🚀 Pintu KumarrR Portfolio
+# 🚀 Pintu KumarrR Exhibition
 
 <h3>
-  <em>A Modern, Interactive & Performance-Optimized Personal Portfolio</em>
+  <em>A Modern, Interactive & Performance-Optimized Personal Exhibition </em>
 </h3>
 
 <!-- Badges -->
@@ -63,7 +63,7 @@
 
 ## 🎯 Overview
 
-Welcome to my **Personal Developer Portfolio** — a meticulously crafted website that showcases my journey, skills, and projects as a **Full Stack Developer**. This portfolio is more than just a resume; it's an interactive experience built with cutting-edge web technologies.
+Welcome to my **Personal Developer Exhibition** — a meticulously crafted website that showcases my journey, skills, and projects as a **Full Stack Developer**. This portfolio is more than just a resume; it's an interactive experience built with cutting-edge web technologies.
 
 <table>
   <tr>
@@ -220,7 +220,7 @@ Welcome to my **Personal Developer Portfolio** — a meticulously crafted websit
 ## 📁 Project Structure
 
 ```
-📦 kumarrR-Portfolio
+📦 Exhibition
 ├── 📂 public/
 │   ├── 📄 manifest.json        # PWA manifest
 │   ├── 📄 sw.js                # Service worker
@@ -293,7 +293,7 @@ git clone
 2️⃣ **Navigate to project directory**
 
 ```bash
-cd Portfolio
+cd Exhibition
 ```
 
 3️⃣ **Install dependencies**
