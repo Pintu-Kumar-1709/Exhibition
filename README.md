@@ -224,8 +224,8 @@ Welcome to my **Personal Developer Exhibition** — a meticulously crafted websi
 ├── 📂 public/
 │   ├── 📄 manifest.json        # PWA manifest
 │   ├── 📄 sw.js                # Service worker
-│   └── 📂 documents/           # PDF files
-│
+│   ├── 📂 documents/           # PDF files
+│   └── 📂 screenshots/         # images
 ├── 📂 src/
 │   ├── 📂 components/
 │   │   ├── 📂 About/           # About section
