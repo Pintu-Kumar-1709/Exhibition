@@ -60,7 +60,7 @@
 
 <!-- Preview Image -->
 <br />
-<img src="public/portfolio.PNG" alt="Portfolio Preview" width="90%" style="border-radius: 12px; box-shadow: 0 20px 40px rgba(0,0,0,0.3);" />
+<img src="public/portfolio.PNG" alt="Exhibition Preview" width="90%" style="border-radius: 12px; box-shadow: 0 20px 40px rgba(0,0,0,0.3);" />
 
 </div>
 
@@ -86,7 +86,7 @@
 
 ## 🎯 Overview
 
-Welcome to my **Personal Developer Exhibition** — a meticulously crafted website that showcases my journey, skills, and projects as a **Full Stack Developer**. This portfolio is more than just a resume; it's an interactive experience built with cutting-edge web technologies.
+Welcome to my **Personal Developer Exhibition** — a meticulously crafted website that showcases my journey, skills, and projects as a **Full Stack Developer**. This exhibition is more than just a resume; it's an interactive experience built with cutting-edge web technologies.
 
 <table>
   <tr>
@@ -358,7 +358,7 @@ http://localhost:5173
 
 ## 🌐 Deployment
 
-This portfolio is configured for seamless deployment on **Vercel**:
+This exhibition is configured for seamless deployment on **Vercel**:
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/)
 
