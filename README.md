@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Logo & Title -->
-<img src="public/lolo.jpg" alt="KumarrR Portfolio Logo" width="140" height="140" style="border-radius: 20px" />
+<img src="public/lolo.jpg" alt="KumarrR Exhibition Logo" width="140" height="140" style="border-radius: 20px" />
 
 # 🚀 Pintu KumarrR Exhibition
 
@@ -17,12 +17,35 @@
   <a href="https://www.framer.com/motion/"><img src="https://img.shields.io/badge/Framer_Motion-12.9-FF0080?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" /></a>
 </p>
 
-<p>
-  <img src="https://img.shields.io/github/stars/giasinguyen/GiaSi-Portfolio?style=social" alt="Stars" />
-  <img src="https://img.shields.io/github/forks/giasinguyen/GiaSi-Portfolio?style=social" alt="Forks" />
-  <img src="https://img.shields.io/github/license/giasinguyen/GiaSi-Portfolio?color=blue" alt="License" />
-  <img src="https://img.shields.io/github/last-commit/giasinguyen/GiaSi-Portfolio?color=green" alt="Last Commit" />
-</p>
+<div className="flex flex-wrap gap-3 mb-6 justify-center md:justify-start">
+
+  <img 
+    src="https://img.shields.io/github/stars/Pintu-Kumar-1709/Exhibition?style=social" 
+    alt="Stars" 
+    className="h-6"
+  />
+  
+  
+  <img 
+    src="https://img.shields.io/github/forks/Pintu-Kumar-1709/Exhibition?style=social" 
+    alt="Forks" 
+    className="h-6"
+  />
+  
+
+  <img 
+    src="https://img.shields.io/github/license/Pintu-Kumar-1709/Exhibition?color=f59e0b" 
+    alt="License" 
+    className="h-6"
+  />
+  
+  
+  <img 
+    src="https://img.shields.io/github/last-commit/Pintu-Kumar-1709/Exhibition?color=22c55e" 
+    alt="Last Commit" 
+    className="h-6"
+  />
+</div>
 
 <!-- Quick Links -->
 <p>
@@ -381,13 +404,25 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ```
 MIT License
 
-Copyright (c) 2026 Pintu Kumar
+Copyright (c) 2024 - 2026 Pintu Kumar
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software...
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 ```
 
 ---
