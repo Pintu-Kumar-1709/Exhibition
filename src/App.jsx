@@ -109,7 +109,7 @@ function App() {
                   <ScrollToTop />
                   <ErrorBoundary fallbackMessage="There was an error loading the page content.">
                     <Routes>
-                      {/* Main Portfolio Page - Mobile Optimized */}
+                      {/* Main Exhibition Page - Mobile Optimized */}
                       <Route
                         path="/"
                         element={
