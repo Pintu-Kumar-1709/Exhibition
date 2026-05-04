@@ -1,5 +1,5 @@
 // Simple service worker for mobile performance
-const CACHE_NAME = 'kumarrR-portfolio-v1';
+const CACHE_NAME = 'kumarrR-exhibition-v1';
 const urlsToCache = [
   '/',
   '/src/main.jsx',
