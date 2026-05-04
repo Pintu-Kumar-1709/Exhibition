@@ -64,8 +64,8 @@ function Contact() {
             name: formData.name,
             email: formData.email,
             message: formData.message,
-            subject: `Portfolio Contact: Message from ${formData.name}`,
-            from_name: "KumarrR Portfolio",
+            subject: `Exhibition Contact: Message from ${formData.name}`,
+            from_name: "KumarrR Exhibition",
           }),
         });
 
