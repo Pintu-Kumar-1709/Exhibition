@@ -3,7 +3,7 @@ import { useEffect } from "react";
 const SEOHead = ({
   title = "Pintu Kumar - Full Stack Developer",
   description = "Professional Full Stack Developer specializing in Next.js & React.js, and modern web technologies.",
-  keywords = "portfolio, full stack developer,  react developer, react developer, javascript, web development",
+  keywords = "portfolio,exhibition, full stack developer,  react developer, react developer, javascript, web development",
   image = "/lolo.jpg",
   url = "https://github.com/Pintu-Kumar-1709/",
   type = "website",
