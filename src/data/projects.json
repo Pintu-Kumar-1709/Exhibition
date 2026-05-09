@@ -115,9 +115,9 @@
       "Vercel",
       "SEO"
     ],
-    "category": "frontend",
-    "githubUrl": "/",
-    "demoUrl": "/",
+    "category": "fullstack",
+    "githubUrl": "https://github.com/Pintu-Kumar-1709/Exhibition",
+    "demoUrl": "https://kumar-pintu.vercel.app/",
     "period": "December 2024 - January 2025",
     "role": "Frontend Developer",
     "teamSize": 1,
