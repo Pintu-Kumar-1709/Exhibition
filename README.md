@@ -225,7 +225,7 @@ Welcome to my **Personal Developer Exhibition** — a meticulously crafted websi
 <div align="center">
 
 ### 🏠 Home Page
-<img src="public/screenshots/home.png" alt="Home Page" width="100%" style="border-radius: 18px; margin: 10px 0;" />
+<img src="public/screenshots/home.png" alt="Home Page" width="100%" style="border-radius: 38px; margin: 10px 0;" />
 
 ### 👨‍💻 About Section
 <img src="public/screenshots/about.png" alt="About Section" width="80%" style="border-radius: 8px; margin: 10px 0;" />
