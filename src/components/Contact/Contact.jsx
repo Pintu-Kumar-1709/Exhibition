@@ -118,7 +118,7 @@ function Contact() {
   const socialLinks = [
     {
       icon: FaGithub,
-      href: "https://github.com/Pintu-Kumar-1709",
+      href: "https://github.com/justkmr",
       label: "GitHub",
     },
     {

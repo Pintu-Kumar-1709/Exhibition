@@ -83,7 +83,7 @@ const MobileHome = memo(() => {
           {/* Social Links */}
           <div className="flex gap-6 justify-center">
             <a
-              href="https://github.com/Pintu-Kumar-1709"
+              href="https://github.com/justkmr"
               target="_blank"
               rel="noopener noreferrer"
               className="text-slate-400 hover:text-white p-2 rounded-lg hover:bg-slate-800/50 transition-colors"

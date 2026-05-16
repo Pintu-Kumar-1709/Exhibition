@@ -20,28 +20,28 @@
 <div className="flex flex-wrap gap-3 mb-6 justify-center md:justify-start">
 
   <img 
-    src="https://img.shields.io/github/stars/Pintu-Kumar-1709/Exhibition?style=social" 
+    src="https://img.shields.io/github/stars/justkmr/Exhibition?style=social" 
     alt="Stars" 
     className="h-6"
   />
   
   
   <img 
-    src="https://img.shields.io/github/forks/Pintu-Kumar-1709/Exhibition?style=social" 
+    src="https://img.shields.io/github/forks/justkmr/Exhibition?style=social" 
     alt="Forks" 
     className="h-6"
   />
   
 
   <img 
-    src="https://img.shields.io/github/license/Pintu-Kumar-1709/Exhibition?color=f59e0b" 
+    src="https://img.shields.io/github/license/justkmr/Exhibition?color=f59e0b" 
     alt="License" 
     className="h-6"
   />
   
   
   <img 
-    src="https://img.shields.io/github/last-commit/Pintu-Kumar-1709/Exhibition?color=22c55e" 
+    src="https://img.shields.io/github/last-commit/justkmr/Exhibition?color=22c55e" 
     alt="Last Commit" 
     className="h-6"
   />
@@ -434,7 +434,7 @@ SOFTWARE.
 ### **Pintu Kumar** — Full Stack Developer
 
 <p>
-  <a href="https://github.com/Pintu-Kumar-1709">
+  <a href="https://github.com/justkmr">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/pintu-kumar-12x">
@@ -457,7 +457,7 @@ SOFTWARE.
 ---
 
 <div align="center">
-  <sub>Built with ❤️ and ☕ by <a href="https://github.com/Pintu-Kumar-1709">Pintu Kumar</a></sub>
+  <sub>Built with ❤️ and ☕ by <a href="https://github.com/justkmr">Pintu Kumar</a></sub>
   <br />
   <sub>© 2026 All Rights Reserved</sub>
 </div>

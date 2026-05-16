@@ -282,7 +282,7 @@ function Home() {
           {/* Social Links */}
           <div className="hero-element flex justify-center gap-4 pt-2">
             <a
-              href="https://github.com/Pintu-Kumar-1709"
+              href="https://github.com/justkmr"
               target="_blank"
               rel="noreferrer"
               className="p-3 text-neutral-400 hover:text-amber-400 bg-neutral-800/40 hover:bg-neutral-800/80 border border-neutral-700/30 hover:border-amber-500/30 rounded-xl transition-all duration-300"

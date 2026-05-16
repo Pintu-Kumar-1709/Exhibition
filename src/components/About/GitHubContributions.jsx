@@ -16,7 +16,7 @@ function GitHubContributions() {
 
   const darkMode = false;
 
-  const username = "Pintu-Kumar-1709"; // GitHub username
+  const username = "justkmr"; // GitHub username
 
   useEffect(() => {
     fetchGitHubData();

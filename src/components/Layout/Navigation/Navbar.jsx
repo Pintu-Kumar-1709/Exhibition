@@ -221,7 +221,7 @@ function Navbar() {
               {/* Social Links */}
               <div className="flex items-center gap-2 mr-2">
                 <motion.a
-                  href="https://github.com/Pintu-Kumar-1709"
+                  href="https://github.com/justkmr"
                   target="_blank"
                   rel="noreferrer"
                   className="w-10 h-10 rounded-xl bg-neutral-800/50 border border-neutral-700/30 flex items-center justify-center text-neutral-400 hover:text-white hover:bg-neutral-700/50 hover:border-neutral-600 transition-all duration-300"
@@ -410,7 +410,7 @@ function Navbar() {
                 </p>
                 <div className="flex items-center gap-3">
                   <motion.a
-                    href="https://github.com/Pintu-Kumar-1709"
+                    href="https://github.com/justkmr"
                     target="_blank"
                     rel="noreferrer"
                     className="flex-1 flex items-center justify-center gap-2 py-3 rounded-xl bg-neutral-800/50 border border-neutral-700/30 text-neutral-300 hover:text-white hover:bg-neutral-700/50 transition-all duration-300"
