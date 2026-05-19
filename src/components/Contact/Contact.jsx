@@ -104,8 +104,8 @@ function Contact() {
     {
       icon: FaPhone,
       label: "Phone",
-      value: "(+91) 80 8401 6480",
-      href: "tel:+91 80 8401 6480",
+      value: "(+91) 80 8401 8064",
+      href: "tel:+91 80 8401 8064",
     },
     {
       icon: FaMapMarkerAlt,
